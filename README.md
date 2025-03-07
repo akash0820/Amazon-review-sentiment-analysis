@@ -77,7 +77,7 @@ jupyter notebook
 ---
 
 ## 📌 Project Link
-📚 **GitHub Repository:** [-](https://github.com/akash0820/Amazon-review-sentiment-analysis)
+📚 **GitHub Repository:** [Link](https://github.com/akash0820/Amazon-review-sentiment-analysis)
 
 ---
 
